@@ -1,0 +1,39 @@
+Hi This is my first project.
+This is fruit-detect-app which help you to find healthy fruit for you for your healthy life.why we need it explanation is following.
+Most of the peoples faces difficulties during buying of fresh fruits because the shopkeeper did not cooperate with the user by this 
+application user detect the quality of fresh fruits by using its mobile camera and detect the fruit and this app tells its better for us or not.
+When we buy the fruits and went to home and after that when we want to eat the fruits have not the good quality.
+This application helps us to checking the best quality of fruits for us and we can easily check and buy the fresh fruits.
+A little introduction of our Project are following.
+Every did not have the ability to check weather this fruit is good for us or not and some time the shopkeeper sells us the rotten fruit in large 
+quantity in his/her greed  so it difficult to find out   because we cannot check every single piece in such a large quantity on that time.
+But , In this project we will provide you a tool that can help you to detect fruit is buy able or not. We want to provide you  healthy fruits  to
+user so they can live a better life.
+By using this application and on website user can easily buy the fresh fruit and also check the quality of fruits weather it is fresh or no
+It can help you find any rotten fruit by just take picture of it.
+It will be available on both platform web and android.
+It will also help to remove food inspection labor and take his place  and save a lot of money and It will be great revolution.    
+Objectives of over project are following.
+To provide healthy life style.
+To save  money that we waste on rotten fruits that we accidently buy and save doctor expenses that we spend after eating that fruit.
+To make life easy by scan large quantity of fruit by just taking a pic from your phone and analysis it in second which fruit is rotten.
+To save people from fraud that some sellers sells rotten fruits in their greed.
+Scope of Project are following.
+This project have high use in market it can replace all food inspection labor.
+It will not only tell you about the fruit is rotten or not but also tell if it have any disease or not.
+It can be able to scan large quantity of fruit in just one click and within seconds and it will provide 95% rate and it save a lots of time and money.
+It will increase the productivity and growth of fruit and world it will be greater revolution toward  the healthy life style.
+Tools and Technologies Which are going use are following.
+Python (Jupyter Notebook )
+Pytorch
+CNNs 
+Flutter (Android Deployment)
+Flask (Web)
+Conclusion: Unhealthy diet causes diseases. To buy the healthy fruits concerns directly with health, in most of the cases we are unaware of while
+shopping which causes bad health. We have develop a system which will not only detect that fruit is rotten or not but also be the replacement of 
+the food inspection team.
+Refferences:
+https://pytorch.org
+https://en.wikipedia.org/wiki/PyTorch
+https://www.researchgate.net/publication/312438814_An_efficient_implementation_of_2D_convolution_in_CNN
+Hands-On Machine Learning to Build Intelligent Systems(by Geron Aurelien)
